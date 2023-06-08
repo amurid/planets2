@@ -1,0 +1,6 @@
+smoothie
+change file
+git add .
+git status [what do see?]
+git commit =m "i made changes"
+git push
